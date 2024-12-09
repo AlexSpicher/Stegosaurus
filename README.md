@@ -1,5 +1,5 @@
 # Stegosaurus
-Simple CLI based steganography program.
+Simple CLI based steganography program built by JP Arena and I. You can check his work out here: https://github.com/jparena
 This program uses the Pillow and Cryptography libraries.
 Simply type PIP install Pillow on command line, do the same for Cryptography.
 The password implementation uses SHA-256 and was implemnted by JP Arena.
